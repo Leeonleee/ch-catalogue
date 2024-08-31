@@ -1,0 +1,11 @@
+{
+  "name": "ch-catalogue",
+  "version": "1.0.0",
+  "description": "Catalogue for Chrome Hearts items",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Leon Lee",
+  "license": "MIT"
+}

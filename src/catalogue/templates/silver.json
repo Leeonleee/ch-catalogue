@@ -1,0 +1,11 @@
+{
+    "id": "101",
+    "name": "Silver Pendant",
+    "image_url": "https://example.com/images/silver-pendant.jpg",
+    "size": "Medium",
+    "weight": "10g",
+    "price": 200,
+    "material": "925 Sterling Silver",
+    "notes": "Handcrafted with intricate details."
+  }
+  

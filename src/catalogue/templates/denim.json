@@ -1,0 +1,12 @@
+{
+    "id": "201",
+    "name": "Denim Jacket",
+    "front_image_url": "https://example.com/images/denim-front.jpg",
+    "back_image_url": "https://example.com/images/denim-back.jpg",
+    "size": "Large",
+    "weight": "500g",
+    "price": 150,
+    "material": "100% Cotton",
+    "notes": "Vintage wash, limited edition."
+  }
+  
